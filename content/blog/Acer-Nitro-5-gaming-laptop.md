@@ -10,12 +10,12 @@ As a company with several indistinguishable product lines, the last thing Acer n
 
 > With the Nitro 5, it's hoping to make a dent in the increasingly important budget gaming market
 
-![Nitro intro](/knowmyphone_blog/static/nitro.jpg)
+![Nitro intro](/static/nitro.jpg)
 
 
 Talking about the gaming laptop first, the company announced the Nitro 5 laptop which has been targeted towards gamers ion a budget. The laptop comes in several different configurations comprising of either **7th generation Intel Core i5 or i7 processors** which work alongside the **Nvidia GTX 1050 Ti GPU**, or **AMD’s FX, A10 or A12** processors which work in parallel with **Radeon RX550 graphics**. The Nitro 5 comes with a **15.6-inch full HD** display and can be paired with up to **32GB** of RAM. For connectivity, buyers will get a USB 3.0 port, two USB 2.0 ports, Gigabit Ethernet and an HDMI 2.0 port. 
 
-![Nitro front](/knowmyphone_blog/static/nitro-back.jpg)
+![Nitro front](/static/nitro-back.jpg)
 
 **NITRO 5**
 
@@ -25,4 +25,4 @@ Talking about the gaming laptop first, the company announced the Nitro 5 laptop 
 - Up to a 512GB SSD paired with an optional HDD drive up to 2TB
 - USB-C port, one USB 3.0, two USB 2.0 ports, and an HDMI 2.0 port
 
-![Nitro front](/knowmyphone_blog/static/nitro-top.jpg)
+![Nitro front](/static/nitro-top.jpg)

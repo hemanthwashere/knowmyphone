@@ -1,4 +1,4 @@
-baseURL = "https://hemanth7787.github.io/knowmyphone_blog/"
+baseURL = "http://knowmyphone.in/"
 title = "Know My Phone"
 
 theme = "minimo"
